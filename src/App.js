@@ -23,7 +23,7 @@ function App() {
          >
            {/* //Learn React */}
            
-           Let everyone to have the equal opportunity and freedom to Innovate!
+           Let everyone have equal opportunity and freedom to Innovate!
            
          </a>
        </header>
