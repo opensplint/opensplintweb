@@ -12,7 +12,7 @@ function App() {
        <header className="App-header">
          <img src={logo} className="App-logo" alt="logo" />
          <p>
-           <h1><b>openSplint</b></h1> <br></br>Comming Soon!
+           <h1><b>openSplint.io</b></h1> <br></br>Comming Soon!
 
          </p>
          <a
